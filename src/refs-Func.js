@@ -1,6 +1,6 @@
 import React, { useRef } from "react";
 
-export default function RefFunc(){
+export default function RefsFunc(){
     const num1 = useRef()
     const num2 = useRef()
     const operator = React.useRef()
